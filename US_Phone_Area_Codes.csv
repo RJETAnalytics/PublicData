@@ -1,0 +1,399 @@
+AreaCode,State ,Area
+201,New Jersey ,"Jersey City, Bayonne, Bergenfield"
+202,"Washington, DC ",Washington
+203,Connecticut ,"Bridgeport, Danbury, East Haven"
+204,Manitoba ,Winnipeg
+205,Alabama ,"Birmingham, Alabaster, Bessemer"
+206,Washington ,"Seattle, Bainbridge Island, Burien"
+207,Maine ,"Portland, Auburn, Augusta"
+208,Idaho ,"Boise City, Caldwell, Coeur D'alene"
+209,California ,"Stockton, Atwater, Ceres"
+210,Texas ,San Antonio
+212,New York ,"New York, Manhattan, New York City"
+213,California ,Los Angeles
+214,Texas ,"Dallas, Allen, Arlington"
+215,Pennsylvania ,"Philadelphia, Levittown"
+216,Ohio ,"Cleveland, Brook Park, Cleveland Heights"
+217,Illinois ,"Springfield, Champaign, Charleston"
+218,Minnesota ,"Duluth, Andover, Moorhead"
+219,Indiana ,"Hammond, East Chicago, Gary"
+220,Ohio ,"Newark, Athens, Chillicothe"
+223,Pennsylvania ,"Lancaster, Harrisburg, Lebanon"
+224,Illinois ,"Elgin, Algonquin, Arlington Heights"
+225,Louisiana ,Baton Rouge
+226,Ontario ,London
+228,Mississippi ,"Gulfport, Biloxi, Pascagoula"
+229,Georgia ,"Albany, Valdosta"
+231,Michigan ,"Muskegon, Norton Shores, Shelby"
+234,Ohio ,"Akron, Alliance, Austintown"
+236,British Columbia ,Vancouver
+239,Florida ,"Cape Coral, Bonita Springs, Fort Myers"
+240,Maryland ,"Germantown, Aspen Hill, Bethesda"
+248,Michigan ,"Troy, Bloomfield, Farmington Hills"
+249,Ontario ,Sudbury
+250,British Columbia ,Kelowna
+251,Alabama ,"Mobile, Prichard"
+252,North Carolina ,"Greenville, Havelock, Kinston"
+253,Washington ,"Tacoma, Auburn, East Hill-meridian"
+254,Texas ,"Killeen, Copperas Cove, Fort Hood"
+256,Alabama ,"Huntsville, Anniston, Decatur"
+260,Indiana ,Fort Wayne
+262,Wisconsin ,"Kenosha, Brookfield, Caledonia"
+263,Quebec ,Montreal
+267,Pennsylvania ,"Philadelphia, Levittown"
+269,Michigan ,"Kalamazoo, Battle Creek, Portage"
+270,Kentucky ,"Bowling Green, Elizabethtown, Henderson"
+272,Pennsylvania ,"Scranton, Back Mountain, Hazleton"
+276,Virginia ,"Bristol, Richmond"
+279,California ,"Sacramento, Arden-arcade, Carmichael"
+281,Texas ,"Houston, Alvin, Atascocita"
+289,Ontario ,Hamilton
+301,Maryland ,"Germantown, Aspen Hill, Bethesda"
+302,Delaware ,"Wilmington, Dover, Newark"
+303,Colorado ,"Denver, Arvada, Aurora"
+304,West Virginia ,"Charleston, Huntington, Morgantown"
+305,Florida ,"Miami, Aventura, Carol City"
+306,Saskatchewan ,Saskatoon
+307,Wyoming ,"Cheyenne, Casper, Gillette"
+308,Nebraska ,"Grand Island, Kearney, North Platte"
+309,Illinois ,"Peoria, Bloomington, East Moline"
+310,California ,"Los Angeles, Beverly Hills, Carson"
+312,Illinois ,Chicago
+313,Michigan ,"Detroit, Allen Park, Dearborn"
+314,Missouri ,"St. Louis, Affton, Ferguson"
+315,New York ,"Syracuse, Auburn, Rome"
+316,Kansas ,Wichita
+317,Indiana ,"Indianapolis, Carmel, Fishers"
+318,Louisiana ,"Shreveport, Alexandria, Bossier City"
+319,Iowa ,"Cedar Rapids, Burlington, Cedar Falls"
+320,Minnesota ,St. Cloud
+321,Florida ,"Orlando, Altamonte Springs, Apopka"
+323,California ,"Los Angeles, Bell, Bell Gardens"
+325,Texas ,"Abilene, San Angelo"
+326,Ohio ,Dayton
+330,Ohio ,"Akron, Alliance, Austintown"
+331,Illinois ,"Aurora, Addison, Bartlett"
+332,New York ,"New York, Manhattan, New York City"
+334,Alabama ,"Montgomery, Auburn, Dothan"
+336,North Carolina ,"Greensboro, Asheboro, Burlington"
+337,Louisiana ,"Lafayette, Lake Charles, New Iberia"
+339,Massachusetts ,"Boston, Arlington, Braintree"
+340,Virgin Islands ,"St. Croix, Charlotte Amalie"
+341,California ,Oakland
+343,Ontario ,Ottawa
+346,Texas ,"Houston, Alvin, Atascocita"
+347,New York ,"New York, Bronx, Brooklyn"
+350,California ,Stockton
+351,Massachusetts ,"Lowell, Beverly, Chelmsford"
+352,Florida ,"Gainesville, Oakland Park, Ocala"
+354,Quebec ,Granby
+360,Washington ,"Vancouver, Bellingham, Bremerton"
+361,Texas ,"Corpus Christi, Kingsville, Victoria"
+363,New York ,Hempstead
+364,Kentucky ,"Bowling Green, Elizabethtown, Henderson"
+365,Ontario ,Hamilton
+367,Quebec ,Quebec
+368,Alberta ,Calgary
+380,Ohio ,"Columbus, Dublin, Gahanna"
+385,Utah ,"Salt Lake City, American Fork, Bountiful"
+386,Florida ,"Palm Coast, Daytona Beach, De Land"
+401,Rhode Island ,"Providence, Bristol, Cranston"
+402,Nebraska ,"Omaha, Bellevue, Columbus"
+403,Alberta ,Calgary
+404,Georgia ,"Atlanta, Candler-mcafee, College Park"
+405,Oklahoma ,"Oklahoma City, Bethany, Del City"
+406,Montana ,"Billings, Bozeman, Butte-silver Bow"
+407,Florida ,"Orlando, Altamonte Springs, Apopka"
+408,California ,"San Jose, Campbell, Gilroy"
+409,Texas ,"Beaumont, Galveston, Port Arthur"
+410,Maryland ,"Baltimore, Annapolis, Arbutus"
+412,Pennsylvania ,"Pittsburgh, Bethel Park, Mccandless"
+413,Massachusetts ,"Springfield, Agawam, Chicopee"
+414,Wisconsin ,"Milwaukee, Franklin, Greenfield"
+415,California ,"San Francisco, Novato, San Anselmo"
+416,Ontario ,Toronto
+417,Missouri ,"Springfield, Joplin"
+418,Quebec ,Quebec
+419,Ohio ,"Toledo, Ashland, Bowling Green"
+423,Tennessee ,"Chattanooga, Bristol, Cleveland"
+424,California ,"Los Angeles, Beverly Hills, Carson"
+425,Washington ,"Bellevue, Bothell, Cascade-fairwood"
+430,Texas ,Tyler
+431,Manitoba ,Winnipeg
+432,Texas ,"Midland, Big Spring, Odessa"
+434,Virginia ,"Lynchburg, Charlottesville, Danville"
+435,Utah ,"St. George, Cedar City, Logan"
+437,Ontario ,Toronto
+438,Quebec ,Montreal
+440,Ohio ,"Parma, Ashtabula, Eastlake"
+442,California ,"Oceanside, Apple Valley, Barstow"
+443,Maryland ,"Baltimore, Annapolis, Arbutus"
+445,Pennsylvania ,"Philadelphia, Levittown"
+447,Illinois ,Springfield
+448,Florida ,Tallahassee
+450,Quebec ,Granby
+458,Oregon ,"Eugene, Albany, Bend"
+463,Indiana ,"Indianapolis, Carmel, Fishers"
+464,Illinois ,Cicero
+468,Quebec ,Sherbrooke
+469,Texas ,"Dallas, Allen, Carrollton"
+470,Georgia ,Atlanta
+472,North Carolina ,Fayetteville
+474,Saskatchewan ,Saskatoon
+475,Connecticut ,"Bridgeport, Danbury, East Haven"
+478,Georgia ,"Macon, Warner Robins"
+479,Arkansas ,"Fort Smith, Fayetteville, Rogers"
+480,Arizona ,"Mesa, Apache Junction, Chandler"
+484,Pennsylvania ,"Allentown, Bethlehem, Chester"
+501,Arkansas ,"Little Rock, Benton, Conway"
+502,Kentucky ,"Louisville, Frankfort"
+503,Oregon ,"Portland, Aloha, Beaverton"
+504,Louisiana ,"New Orleans, Chalmette, Harvey"
+505,New Mexico ,"Albuquerque, Farmington, Gallup"
+506,New Brunswick ,Moncton
+507,Minnesota ,"Rochester, Austin, Faribault"
+508,Massachusetts ,"Worcester, Attleboro, Barnstable Town"
+509,Washington ,"Spokane, Kennewick, Opportunity"
+510,California ,"Oakland, Alameda, Berkeley"
+512,Texas ,"Austin, Cedar Park, Georgetown"
+513,Ohio ,"Cincinnati, Fairfield, Hamilton"
+514,Quebec ,Montreal
+515,Iowa ,"Des Moines, Ames, Ankeny"
+516,New York ,"Hempstead, Baldwin, East Meadow"
+517,Michigan ,"Lansing, Adrian, Clinton"
+518,New York ,"Albany, Rotterdam, Saratoga Springs"
+519,Ontario ,London
+520,Arizona ,"Tucson, Casa Adobes, Casa Grande"
+530,California ,"Redding, Chico, Davis"
+531,Nebraska ,"Omaha, Bellevue, Columbus"
+534,Wisconsin ,Eau Claire
+539,Oklahoma ,"Tulsa, Bartlesville, Broken Arrow"
+540,Virginia ,"Roanoke, Blacksburg, Cave Spring"
+541,Oregon ,"Eugene, Albany, Bend"
+548,Ontario ,London
+551,New Jersey ,"Jersey City, Bayonne, Bergenfield"
+557,Missouri ,St. Louis
+559,California ,"Fresno, Clovis, Hanford"
+561,Florida ,"West Palm Beach, Boca Del Mar, Boca Raton"
+562,California ,"Long Beach, Bellflower, Cerritos"
+563,Iowa ,"Davenport, Bettendorf, Clinton"
+564,Washington ,"Vancouver, Bellingham, Bremerton"
+567,Ohio ,"Toledo, Ashland, Bowling Green"
+570,Pennsylvania ,"Scranton, Back Mountain, Hazleton"
+571,Virginia ,"Arlington, Alexandria, Annandale"
+572,Oklahoma ,Oklahoma City
+573,Missouri ,"Columbia, Cape Girardeau, Jefferson City"
+574,Indiana ,"South Bend, Elkhart, Goshen"
+575,New Mexico ,"Las Cruces, Alamogordo, Carlsbad"
+579,Quebec ,Granby
+580,Oklahoma ,"Lawton, Altus, Ardmore"
+581,Quebec ,Quebec
+582,Pennsylvania ,Erie
+584,Manitoba ,Winnipeg
+585,New York ,"Rochester, Brighton, Irondequoit"
+586,Michigan ,"Warren, Clinton, Eastpointe"
+587,Alberta ,Calgary
+601,Mississippi ,"Jackson, Clinton, Hattiesburg"
+602,Arizona ,Phoenix
+603,New Hampshire ,"Manchester, Concord, Derry"
+604,British Columbia ,Vancouver
+605,South Dakota ,"Sioux Falls, Aberdeen, Pierre"
+606,Kentucky ,Ashland
+607,New York ,"Binghamton, Elmira, Ithaca"
+608,Wisconsin ,"Madison, Beloit, Fitchburg"
+609,New Jersey ,"Trenton, Atlantic City, Ewing"
+610,Pennsylvania ,"Allentown, Bethlehem, Chester"
+612,Minnesota ,"Minneapolis, Crystal, Golden Valley"
+613,Ontario ,Ottawa
+614,Ohio ,"Columbus, Dublin, Gahanna"
+615,Tennessee ,"Nashville, Brentwood, Franklin"
+616,Michigan ,"Grand Rapids, Forest Hills, Holland"
+617,Massachusetts ,"Boston, Belmont, Brookline"
+618,Illinois ,"Belleville, Alton, Carbondale"
+619,California ,"San Diego, Chula Vista, Coronado"
+620,Kansas ,"Hutchinson, Dodge City, Emporia"
+623,Arizona ,"Phoenix, Avondale, Glendale"
+626,California ,"Pasadena, Alhambra, Altadena"
+628,California ,"San Francisco, Novato, San Anselmo"
+629,Tennessee ,"Nashville, Brentwood, Franklin"
+630,Illinois ,"Aurora, Addison, Bartlett"
+631,New York ,"Brentwood, Bay Shore, Centereach"
+636,Missouri ,"O'Fallon, Ballwin, Chesterfield"
+639,Saskatchewan ,Saskatoon
+640,New Jersey ,Trenton
+641,Iowa ,"Mason City, Marshalltown, Ottumwa"
+646,New York ,"New York, Manhattan, New York City"
+647,Ontario ,Toronto
+650,California ,"San Mateo, Belmont, Burlingame"
+651,Minnesota ,"St. Paul, Apple Valley, Cottage Grove"
+656,Florida ,Tampa
+657,California ,"Anaheim, Brea, Buena Park"
+659,Alabama ,Birmingham
+660,Missouri ,Sedalia
+661,California ,"Bakersfield, Delano, Lancaster"
+662,Mississippi ,"Southaven, Clarksdale, Columbus"
+667,Maryland ,"Baltimore, Annapolis, Arbutus"
+669,California ,"San Jose, Campbell, Gilroy"
+670,Northern Mariana Islands ,Saipan
+671,Guam ,"Dededo, Hagatna"
+672,British Columbia ,Vancouver
+678,Georgia ,"Atlanta, Alpharetta, Candler-mcafee"
+680,New York ,"Syracuse, Auburn, Rome"
+681,West Virginia ,"Charleston, Huntington, Morgantown"
+682,Texas ,"Fort Worth, Arlington, Bedford"
+683,Ontario ,Sudbury
+684,American Samoa ,"Pago Pago, Pago"
+689,Florida ,Orlando
+701,North Dakota ,"Fargo, Bismarck, Grand Forks"
+702,Nevada ,"Las Vegas, Henderson, North Las Vegas"
+703,Virginia ,"Arlington, Alexandria, Annandale"
+704,North Carolina ,"Charlotte, Concord, Gastonia"
+705,Ontario ,Sudbury
+706,Georgia ,"Augusta, Athens, Columbus"
+707,California ,"Santa Rosa, Benicia, Eureka"
+708,Illinois ,"Cicero, Bellwood, Berwyn"
+709,Newfoundland ,St. Johns
+712,Iowa ,"Sioux City, Council Bluffs"
+713,Texas ,"Houston, Alvin, Atascocita"
+714,California ,"Anaheim, Brea, Buena Park"
+715,Wisconsin ,"Eau Claire, Stevens Point, Superior"
+716,New York ,"Buffalo, Cheektowaga, Jamestown"
+717,Pennsylvania ,"Lancaster, Harrisburg, Lebanon"
+718,New York ,"New York, Bronx, Brooklyn"
+719,Colorado ,"Colorado Springs, Pueblo, Security-widefield"
+720,Colorado ,"Denver, Arvada, Aurora"
+724,Pennsylvania ,"New Castle, Mccandless, Monroeville"
+725,Nevada ,"Las Vegas, Henderson, North Las Vegas"
+726,Texas ,San Antonio
+727,Florida ,"St. Petersburg, Bayonet Point, Clearwater"
+731,Tennessee ,Jackson
+732,New Jersey ,"Toms River, Brick, Carteret"
+734,Michigan ,"Ann Arbor, Canton, Garden City"
+737,Texas ,"Austin, Cedar Park, Georgetown"
+740,Ohio ,"Newark, Athens, Chillicothe"
+742,Ontario ,Hamilton
+743,North Carolina ,"Greensboro, Asheboro, Burlington"
+747,California ,"Los Angeles, Agoura Hills, Burbank"
+753,Ontario ,Ottawa
+754,Florida ,"Fort Lauderdale, Coconut Creek, Cooper City"
+757,Virginia ,"Virginia Beach, Chesapeake, Hampton"
+760,California ,"Oceanside, Apple Valley, Barstow"
+762,Georgia ,"Augusta, Athens, Columbus"
+763,Minnesota ,"Brooklyn Park, Blaine, Brooklyn Center"
+765,Indiana ,"Muncie, Anderson, Kokomo"
+769,Mississippi ,"Jackson, Clinton, Hattiesburg"
+770,Georgia ,"Roswell, Alpharetta, Atlanta"
+771,"Washington, DC ",Washington
+772,Florida ,"Port St. Lucie, Fort Pierce, Palm City"
+773,Illinois ,Chicago
+774,Massachusetts ,"Worcester, Attleboro, Barnstable Town"
+775,Nevada ,"Reno, Carson City, Pahrump"
+778,British Columbia ,Vancouver
+779,Illinois ,"Rockford, Belvidere, Crystal Lake"
+780,Alberta ,Edmonton
+781,Massachusetts ,"Boston, Arlington, Braintree"
+782,Nova Scotia / Prince Edward Island ,Halifax
+785,Kansas ,"Topeka, Hays, Lawrence"
+786,Florida ,"Miami, Aventura, Carol City"
+787,Puerto Rico ,San Juan
+801,Utah ,"Salt Lake City, American Fork, Bountiful"
+802,Vermont ,"Burlington, Montpelier"
+803,South Carolina ,"Columbia, Aiken, Rock Hill"
+804,Virginia ,"Richmond, Hopewell, Mechanicsville"
+805,California ,"Oxnard, Atascadero, Camarillo"
+806,Texas ,"Lubbock, Amarillo, Plainview"
+807,Ontario ,Kenora
+808,Hawaii ,"Urban Honolulu, Hilo, Honolulu"
+810,Michigan ,"Flint, Burton, Port Huron"
+812,Indiana ,"Evansville, Bloomington, Clarksville"
+813,Florida ,"Tampa, Brandon, Citrus Park"
+814,Pennsylvania ,"Erie, Altoona, Johnstown"
+815,Illinois ,"Rockford, Belvidere, Crystal Lake"
+816,Missouri ,"Kansas City, Belton, Blue Springs"
+817,Texas ,"Fort Worth, Arlington, Bedford"
+818,California ,"Los Angeles, Agoura Hills, Burbank"
+819,Quebec ,Sherbrooke
+820,California ,Oxnard
+825,Alberta ,Calgary
+826,Virginia ,Roanoke
+828,North Carolina ,"Asheville, Hickory"
+830,Texas ,"New Braunfels, Del Rio, Eagle Pass"
+831,California ,"Salinas, Hollister, Marina"
+832,Texas ,"Houston, Alvin, Atascocita"
+835,Pennsylvania ,Allentown
+838,New York ,"Albany, Rotterdam, Saratoga Springs"
+839,South Carolina ,Columbia
+840,California ,San Bernardino
+843,South Carolina ,"Charleston, Florence, Goose Creek"
+845,New York ,"New City, Kingston, Middletown"
+847,Illinois ,"Elgin, Algonquin, Arlington Heights"
+848,New Jersey ,"Toms River, Brick, Carteret"
+850,Florida ,"Tallahassee, Bellview, Brent"
+854,South Carolina ,"Charleston, Florence, Goose Creek"
+856,New Jersey ,"Camden, Bridgeton, Cherry Hill"
+857,Massachusetts ,"Boston, Belmont, Brookline"
+858,California ,"San Diego, Poway"
+859,Kentucky ,"Lexington-Fayette, Covington, Florence"
+860,Connecticut ,"Hartford, Bristol, Central Manchester"
+862,New Jersey ,"Newark, Belleville, Bloomfield"
+863,Florida ,"Lakeland, Winter Haven"
+864,South Carolina ,"Greenville, Anderson, Greenwood"
+865,Tennessee ,"Knoxville, Maryville, Oak Ridge"
+867,Yukon / Nunavut / NW Territories ,Whitehorse
+870,Arkansas ,"Jonesboro, El Dorado, Paragould"
+872,Illinois ,Chicago
+873,Quebec ,Sherbrooke
+878,Pennsylvania ,"Pittsburgh, Bethel Park, Mccandless"
+901,Tennessee ,"Memphis, Bartlett, Collierville"
+902,Nova Scotia / Prince Edward Island ,Halifax
+903,Texas ,"Tyler, Corsicana, Denison"
+904,Florida ,"Jacksonville, Jacksonville Beach, Lakeside"
+905,Ontario ,Hamilton
+906,Michigan ,Marquette
+907,Alaska ,"Anchorage, College, Fairbanks"
+908,New Jersey ,"Elizabeth, Cranford, Hillside"
+909,California ,"San Bernardino, Chino, Chino Hills"
+910,North Carolina ,"Fayetteville, Fort Bragg, Jacksonville"
+912,Georgia ,"Savannah, Hinesville, Statesboro"
+913,Kansas ,"Overland Park, Kansas City, Leavenworth"
+914,New York ,"Yonkers, Harrison, Mount Vernon"
+915,Texas ,"El Paso, Socorro"
+916,California ,"Sacramento, Arden-arcade, Carmichael"
+917,New York ,"New York, Bronx, Brooklyn"
+918,Oklahoma ,"Tulsa, Bartlesville, Broken Arrow"
+919,North Carolina ,"Raleigh, Apex, Cary"
+920,Wisconsin ,"Green Bay, Appleton, De Pere"
+925,California ,"Concord, Antioch, Bay Point"
+928,Arizona ,"Yuma, Bullhead City, Flagstaff"
+929,New York ,"New York, Bronx, Brooklyn"
+930,Indiana ,"Evansville, Bloomington, Clarksville"
+931,Tennessee ,"Clarksville, Columbia, Cookeville"
+934,New York ,"Brentwood, Bay Shore, Centereach"
+936,Texas ,"Conroe, Huntsville, Lufkin"
+937,Ohio ,"Dayton, Beavercreek, Centerville"
+938,Alabama ,Huntsville
+939,Puerto Rico ,San Juan
+940,Texas ,"Denton, Lewisville, Wichita Falls"
+941,Florida ,"North Port, Bradenton, Port Charlotte"
+943,Georgia ,Atlanta
+945,Texas ,Dallas
+947,Michigan ,"Troy, Bloomfield, Farmington Hills"
+948,Virginia ,Virginia Beach
+949,California ,"Irvine, Aliso Viejo, Costa Mesa"
+951,California ,"Riverside, Banning, Corona"
+952,Minnesota ,"Bloomington, Burnsville, Chanhassen"
+954,Florida ,"Fort Lauderdale, Coconut Creek, Cooper City"
+956,Texas ,"Laredo, Brownsville, Edinburg"
+959,Connecticut ,"Hartford, Bristol, Central Manchester"
+970,Colorado ,"Fort Collins, Grand Junction, Greeley"
+971,Oregon ,"Portland, Aloha, Beaverton"
+972,Texas ,"Dallas, Allen, Carrollton"
+973,New Jersey ,"Newark, Belleville, Bloomfield"
+978,Massachusetts ,"Lowell, Beverly, Chelmsford"
+979,Texas ,"College Station, Bryan, Lake Jackson"
+980,North Carolina ,"Charlotte, Concord, Gastonia"
+983,Colorado ,Denver
+984,North Carolina ,"Raleigh, Apex, Cary"
+985,Louisiana ,"Houma, Laplace, Slidell"
+986,Idaho ,"Boise City, Caldwell, Coeur D'alene"
+989,Michigan ,"Saginaw, Bay City, Harrison"
